@@ -1515,7 +1515,7 @@ If you've tried all troubleshooting steps:
 
 - [Auto-Sync SSH Keys](../features/auto-sync-keys.md) - Feature guide
 - [Auto-Detect Resource Group](../features/auto-detect-rg.md) - Feature guide
-- [Bastion Reconnect Behavior](./bastion-reconnect-behavior.md) - How Bastion tunnels handle reconnection
+- Bastion Reconnect Behavior *(documentation not available)* - How Bastion tunnels handle reconnection
 - [Configuration Reference](../reference/config-default-behaviors.md) - All configuration options
 
 ## Feedback
