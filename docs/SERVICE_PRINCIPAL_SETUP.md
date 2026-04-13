@@ -1600,8 +1600,8 @@ azlin auth test --profile prod
 After completing setup:
 
 1. **Review Security Best Practices**
-   - Read [Service Principal Security Implementation Guide](./SERVICE_PRINCIPAL_SECURITY_IMPLEMENTATION_GUIDE.md)
-   - Review [Security Assessment](./SERVICE_PRINCIPAL_SECURITY_ASSESSMENT.md)
+  - Service Principal Security Implementation Guide *(documentation not available)*
+  - Service Principal Security Assessment *(documentation not available)*
 
 2. **Understand Architecture**
    - Check [Authentication Architecture Design](./AUTH_ARCHITECTURE_DESIGN.md)
