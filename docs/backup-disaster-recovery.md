@@ -773,7 +773,7 @@ azlin backup configure staging-vm \
 
 - Snapshot Management *(documentation not yet available)* - Manual snapshot operations (foundation for backups)
 - [Monitoring and Alerting](./monitoring.md) - Configure alerts for backup/DR failures
-- [Azure Regions](./azure-regions.md) - Supported regions for cross-region replication
+- Azure Regions *(documentation not yet available)* - Supported regions for cross-region replication
 - [Cost Management](./cost-optimization-intelligence.md) - Optimize backup storage costs
 
 ## Cost Estimates
